@@ -1,0 +1,25 @@
+html, body {
+	width: 99%;
+	height: 95%;
+		background-image: url("/images/cm1.jpg");
+}
+
+.headerblock {
+	height: 10%;
+	width: 100%;
+	text-align: center;
+	color:#FFFFFF;
+}
+
+.bodyblock {
+	height: 85%;
+	width: 100%;
+	background-image: url("/images/cm1.jpg");
+}
+
+.footerblock {
+	height: 5%;
+	width: 100%;
+	background: #c0c0c0;
+	text-align: center
+}
